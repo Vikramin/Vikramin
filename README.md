@@ -1,10 +1,23 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramin&label=Profile%20views&color=0e75b6&style=flat" alt="vikramin" /> </p>
+
 
 
 
 <h1 align="center">Hi 👋, I'm VIKRAM D </h1>
 <h3 align="center">I am a passionate web developer with a solid foundation in front-end technologies. I enjoy building responsive and user-friendly web applications.</h3>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 - 🌱 I’m currently learning **React**
 
@@ -26,4 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramin&show_icons=true&locale=en&layout=compact" alt="vikramin" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramin&label=Profile%20views&color=0e75b6&style=flat" alt="vikramin" /> </p>
 
